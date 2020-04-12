@@ -1,0 +1,3 @@
+const os = require('os');
+
+console.log(`Node 运行在 ${os.platform()}`);
